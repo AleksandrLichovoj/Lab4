@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ALELICISKFU19'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CDA36DE608F5492D931901536B1950C0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C93D6DD79B614DD497EE78E135D2BCE8 }}
           package: .
